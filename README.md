@@ -8,6 +8,13 @@ pistencup工具包是对多语言集成的服务开发过程工具的一个尝�
 # 这些工具适合谁使用
 工具包的目标使用者是被过多的技术碎片困扰的使用Spring Cloud或其他基于http的微服务架构的小型团队。这里将尝试提供一个一站式的多语言解决方案，提供项目开发和运行时所需的种种支持。
 
+# 我该使用哪个工具
+1. java系列工具：[mcqueen](https://github.com/pistencup/mcqueen)
+2. dotNet系列工具：Hudson
+3. Golang系列工具：cruz
+4. 界面工具：mater
+5. 其他待定
+
 # 计划的推进顺序
 1. Java支持工具集合。（alpha)
 2. dotNET支持工具集合。（alpha)
@@ -16,10 +23,3 @@ pistencup工具包是对多语言集成的服务开发过程工具的一个尝�
 5. 部署工具和界面。
 6. 服务运行层面的运行监控界面。
 7. 后续待定
-
-# 我该使用哪个工具
-1. java系列工具：[mcqueen](https://github.com/pistencup/mcqueen)
-2. dotNet系列工具：Hudson
-3. Golang系列工具：cruz
-4. 界面工具：mater
-5. 其他待定

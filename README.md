@@ -13,7 +13,7 @@ pistencup toolkit是一组为多语言的微服务程序开发提供的支持性
 # 这些工具适合谁使用
 目前pistencup工具包的目标使用者是被过多的技术碎片困扰的使用基于http的微服务架构（如Spring Cloud）的小型团队.这里将尝试提供一个一站式的多语言解决方案, 提供项目开发和运行时所需的种种支持.
 
-# 已提供的功能
+# 已提供的支持
 1. java系列工具：[mcqueen](https://github.com/pistencup/mcqueen)
 2. dotNet系列工具：[Hudson](https://github.com/pistencup/Hudson)
 

@@ -15,11 +15,11 @@ pistencup toolkit是一组为多语言的微服务程序开发提供的支持性
 
 # 已提供的功能
 1. java系列工具：[mcqueen](https://github.com/pistencup/mcqueen)
-2. dotNet系列工具：Hudson
+2. dotNet系列工具：[Hudson](https://github.com/pistencup/Hudson)
 
 # 已列入计划的功能
 1. 远程调用层面的监控和分析功能界面：mater
 2. nodejs支持
-4. golang支持
-5. 部署工具和界面
-6. 服务运行层面的监控界面
+3. golang支持
+4. 部署工具和界面
+5. 服务运行层面的监控界面
